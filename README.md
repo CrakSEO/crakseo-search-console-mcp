@@ -1,6 +1,6 @@
-# CrakSEO Search Console MCP
+# Free Google Search Console (GSC) & Bing Webmaster Tools by CrakSEO
 
-Free remote MCP server for your own **Google Search Console** and **Bing Webmaster Tools** data. Ask your AI agent which queries bring clicks, why a page isn't indexed, or to resubmit a sitemap, and it answers from your verified properties.
+Free Google Search Console (GSC) for SEO: your own Search Console search analytics, keywords, search rankings, clicks, impressions, URL inspection and Bing Webmaster Tools, as a remote MCP server. Ask your AI agent which queries bring clicks, why a page isn't indexed, or to resubmit a sitemap, and it answers from your verified properties.
 
 This repository holds the client configuration, a Cursor plugin and an agent skill. The server is hosted by CrakSEO at `https://crakseo.com/mcp/search-console`; nothing runs locally and there is no server source here.
 

@@ -1,4 +1,4 @@
-# CrakSEO Search Console MCP: installation guide for Cline
+# Free Google Search Console (GSC) & Bing Webmaster Tools by CrakSEO: installation guide for Cline
 
 Remote MCP server hosted by CrakSEO. Nothing to build, clone or run locally. All tools are free.
 

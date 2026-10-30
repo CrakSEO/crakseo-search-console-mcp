@@ -1,6 +1,6 @@
 ---
 name: search-console
-description: Report on the user's own Google Search Console and Bing Webmaster Tools data with the CrakSEO Search Console MCP. Use when the user asks which queries or pages bring clicks, why a page is not indexed in Google, to list or resubmit sitemaps, or for Bing traffic, crawl issues and URL submission quota.
+description: Report on the user's own Google Search Console (GSC) and Bing Webmaster Tools data, such as search analytics, keywords and search rankings, with CrakSEO's free Search Console MCP. Use when the user asks which queries or pages bring clicks, why a page is not indexed in Google, to list or resubmit sitemaps, or for Bing traffic, crawl issues and URL submission quota.
 ---
 
 # Search Console and Bing Webmaster Tools
