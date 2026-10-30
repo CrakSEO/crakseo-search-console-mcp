@@ -1,0 +1,14 @@
+{
+  "name": "crakseo-search-console",
+  "version": "1.0.0",
+  "description": "Free Google Search Console MCP + Bing Webmaster Tools: queries, clicks and impressions, URL inspection, sitemaps, Bing stats and crawl issues for sites you own.",
+  "author": {
+    "name": "CrakSEO",
+    "email": "support@crakseo.com"
+  },
+  "homepage": "https://docs.crakseo.com/mcp-servers/search-console",
+  "repository": "https://github.com/LoganOneal/crakseo-search-console-mcp",
+  "license": "MIT",
+  "keywords": ["google search console", "search console mcp", "bing webmaster tools", "url inspection", "sitemap", "seo", "indexing"],
+  "logo": "assets/logo.png"
+}
