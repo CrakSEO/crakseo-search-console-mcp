@@ -7,7 +7,7 @@
     "email": "support@crakseo.com"
   },
   "homepage": "https://docs.crakseo.com/mcp-servers/search-console",
-  "repository": "https://github.com/LoganOneal/crakseo-search-console-mcp",
+  "repository": "https://github.com/CrakSEO/crakseo-search-console-mcp",
   "license": "MIT",
   "keywords": ["google search console", "gsc", "bing webmaster tools", "search console", "search analytics", "organic traffic", "search rankings", "url inspection", "webmaster tools", "sitemap"],
   "logo": "assets/logo.png"

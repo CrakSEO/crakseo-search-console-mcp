@@ -107,7 +107,7 @@ Tool arguments go to CrakSEO and to Google or Bing to answer the request. Google
 - Terms: https://crakseo.com/terms
 - Docs: https://docs.crakseo.com/mcp-servers/search-console
 - Support: support@crakseo.com
-- Issues: https://github.com/LoganOneal/crakseo-search-console-mcp/issues (never include keys, tokens or private property data)
+- Issues: https://github.com/CrakSEO/crakseo-search-console-mcp/issues (never include keys, tokens or private property data)
 
 ## License
 
